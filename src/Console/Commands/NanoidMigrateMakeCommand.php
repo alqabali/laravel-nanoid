@@ -1,10 +1,10 @@
 <?php
 
-namespace Malico\LaravelNanoid\Console\Commands;
+namespace Alqabali\LaravelNanoid\Console\Commands;
 
 use Illuminate\Database\Console\Migrations\MigrateMakeCommand;
 use Illuminate\Support\Composer;
-use Malico\LaravelNanoid\Database\Migrations\MigrationCreator;
+use Alqabali\LaravelNanoid\Database\Migrations\MigrationCreator;
 
 class NanoidMigrateMakeCommand extends MigrateMakeCommand
 {
