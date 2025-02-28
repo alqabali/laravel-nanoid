@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
-use Malico\LaravelNanoid\HasNanoids;
+use Alqabali\LaravelNanoid\HasNanoids;
 
 it('creates nanoid before saving', function () {
     $model = BasicModel::create();
