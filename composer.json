@@ -1,5 +1,5 @@
 {
-	"name": "malico/laravel-nanoid",
+	"name": "alqabali/laravel-nanoid",
 	"license": "MIT",
 	"authors": [
 		{
@@ -31,7 +31,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"Malico\\LaravelNanoid\\LaravelNanoidServiceProvider"
+				"Alqabali\\LaravelNanoid\\LaravelNanoidServiceProvider"
 			]
 		}
 	},
