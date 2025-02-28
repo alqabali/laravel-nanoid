@@ -9,7 +9,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"Malico\\LaravelNanoid\\": "src/"
+			"Alqabali\\LaravelNanoid\\": "src/"
 		}
 	},
 	"autoload-dev": {
