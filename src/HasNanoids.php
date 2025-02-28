@@ -1,6 +1,6 @@
 <?php
 
-namespace Malico\LaravelNanoid;
+namespace Alqabali\LaravelNanoid;
 
 use Hidehalo\Nanoid\Client;
 
