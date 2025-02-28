@@ -3,7 +3,7 @@
 namespace Tests;
 
 use Illuminate\Database\Schema\Blueprint;
-use Malico\LaravelNanoid\LaravelNanoidServiceProvider;
+use Alqabali\LaravelNanoid\LaravelNanoidServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
