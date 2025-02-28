@@ -1,6 +1,6 @@
 <?php
 
-namespace Malico\LaravelNanoid\Console\Commands;
+namespace Alqabali\LaravelNanoid\Console\Commands;
 
 use Illuminate\Foundation\Console\ModelMakeCommand;
 use Illuminate\Support\Str;
