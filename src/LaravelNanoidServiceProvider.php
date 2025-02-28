@@ -1,6 +1,6 @@
 <?php
 
-namespace Malico\LaravelNanoid;
+namespace Alqabali\LaravelNanoid;
 
 use Illuminate\Support\ServiceProvider;
 use Malico\LaravelNanoid\Console\Commands\NanoidMigrateMakeCommand;
