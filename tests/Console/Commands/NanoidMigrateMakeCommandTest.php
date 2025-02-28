@@ -1,6 +1,6 @@
 <?php
 
-use Malico\LaravelNanoid\Console\Commands\NanoidMigrateMakeCommand;
+use Alqabali\LaravelNanoid\Console\Commands\NanoidMigrateMakeCommand;
 
 beforeEach(function () {
     collect(glob(database_path('migrations/*_create_test_models_table.php')))->each(function ($file) {
