@@ -1,6 +1,6 @@
 <?php
 
-namespace Malico\LaravelNanoid\Database\Migrations;
+namespace Alqabali\LaravelNanoid\Database\Migrations;
 
 use Illuminate\Database\Migrations\MigrationCreator as BaseMigrationCreator;
 use Illuminate\Filesystem\Filesystem;
