@@ -3,8 +3,8 @@
 namespace Alqabali\LaravelNanoid;
 
 use Illuminate\Support\ServiceProvider;
-use Malico\LaravelNanoid\Console\Commands\NanoidMigrateMakeCommand;
-use Malico\LaravelNanoid\Console\Commands\NanoidModelMakeCommand;
+use Alqabali\LaravelNanoid\Console\Commands\NanoidMigrateMakeCommand;
+use Alqabali\LaravelNanoid\Console\Commands\NanoidModelMakeCommand;
 
 class LaravelNanoidServiceProvider extends ServiceProvider
 {
